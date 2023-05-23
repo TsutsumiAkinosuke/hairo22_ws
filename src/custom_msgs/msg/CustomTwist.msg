@@ -1,0 +1,10 @@
+float32 lx
+float32 ly
+float32 lz
+float32 ax
+float32 ay
+float32 az
+float32 es1
+float32 es2
+float32 es3
+float32 es4
